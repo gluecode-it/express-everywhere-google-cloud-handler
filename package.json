@@ -1,8 +1,8 @@
 {
   "name": "@gluecode-it/express-everywhere-google-cloud-handler",
   "version": "1.0.0",
-  "description": "handler to use @gluecode-it/express-everywhere for google cloud",
-  "main": "dist/src/index.js",
+  "description": "A handler to use @gluecode-it/express-everywhere for google cloud",
+  "main": "dist/index.js",
   "scripts": {
     "test": "jest --coverage",
     "posttest": "npm run format",
