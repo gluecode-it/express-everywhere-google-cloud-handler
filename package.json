@@ -27,7 +27,7 @@
     "@gluecode-it/express-everywhere": "^1.1.6",
     "@semantic-release/github": "7.1.1",
     "@semantic-release/npm": "^7.0.6",
-    "@types/express": "^4.17.8",
+    "@types/express": "^4.17.9",
     "@types/jest": "26.0.15",
     "@types/node": "14.14.7",
     "@typescript-eslint/eslint-plugin": "4.7.0",
